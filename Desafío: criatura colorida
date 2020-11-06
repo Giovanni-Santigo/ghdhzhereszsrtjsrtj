@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        <style>
+            body{
+                background-color:rgb(3, 242, 59);
+            }
+            p{
+                color:rgb(8, 49, 255);
+            }
+            h1{
+                color:rgb(235, 35, 62);
+            }
+        </style>
+        
+        
+    </head>
+    <body>
+        
+        <h1>EL Loro </h1>
+         <img src= "https://www.kasandbox.org/programming-images/animals/birds_rainbow-lorakeets.png" width="200"> 
+        <p><strong>El Loro</strong><br> <em> Esta pequeña ave se le pueden apreciar sus bellos colores que se le caracterizan por ser muy esplendorosos.</em></p>
+        
+    </body>
+</html>
