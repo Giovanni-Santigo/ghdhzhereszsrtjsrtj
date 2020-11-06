@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: The dinner table</title>
+    </head>
+    <body>
+    
+        <h1>Our dinner menu</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Meal</th>
+                    <th>Ingredients</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Arroz</td>
+                    <td>Arroz <br>Agua<br>Sal<br>tomate
+                    </td>
+                    <td>10$</td>
+                </tr>
+                <tr>
+                    <td>Pollo</td>
+                    <td>Pollo <br>papas<br>Sal<br>tomate
+                    </td>
+                    <td>20$</td>
+                </tr>
+                <tr>
+                    <td>tacos</td>
+                    <td>tortilla<br>carne<br>Sal<br>salsa
+                    </td>
+                    <td>50$</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </body>
+</html>
